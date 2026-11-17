@@ -31,12 +31,14 @@ if (contenedorMenu) {
             <a href="inicio.html" class="brand-link">
                 <img
                     src="../css/logo.png"
+                    <br>
                     alt="Logo de ¿Quién lo vio?"
                     class="brand-logo"
                 >
-
+              <br>
                 <span>
                     <b>¿Quién lo vio?</b>
+                    <br>
                     <small>Sistema Inteligente de Objetos Perdidos</small>
                 </span>
             </a>
